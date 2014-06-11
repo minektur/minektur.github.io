@@ -1,4 +1,4 @@
 minektur.github.io
 ==================
 
-test web hosting page
+Trying out GitHub Pages
